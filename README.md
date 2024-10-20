@@ -1,2 +1,4 @@
 # Automated-Desktop-Organizer
-Developed a Python-based automation system to streamline the process of organizing files across various categories such as images, videos, audio, and documents. The program monitors a source directory in real-time using the Watchdog library and automatically sorts files into designated folders based on their extensions.
+A Python-based automation system to streamline the process of organizing files across various categories such as images, videos, audio, and documents. The program monitors a source directory in real-time using the Watchdog library and automatically sorts files into designated folders based on their extensions.
+![image](https://github.com/user-attachments/assets/9a719979-60da-4a92-a813-bfcb1a5f7e7f)
+
